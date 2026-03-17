@@ -16,7 +16,7 @@ Player.Idled:Connect(preventAFK)
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/OMEGADEZZ/libreria-hz/refs/heads/main/libreria", true))()
 
-local window = library:AddWindow("OMEGADEZZ HUB | PAID Ultra Premiun / By HonnyDezz", {
+local window = library:AddWindow("ONYX HUB | KLAN SCRİPTİ", {
     main_color = Color3.fromRGB(255, 119, 0),
     min_size = Vector2.new(710, 780),
     can_resize = true,
